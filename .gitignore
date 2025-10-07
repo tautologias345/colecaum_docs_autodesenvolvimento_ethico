@@ -1,2 +1,5 @@
 # Conteúdo do Infoproduto à Venda
 content/
+
+# Arquivos Markdown
+*.md
