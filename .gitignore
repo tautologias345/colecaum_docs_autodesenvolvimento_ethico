@@ -8,3 +8,6 @@ content/
 
 # CSV
 *.csv
+
+# Vídeo
+.mp4
