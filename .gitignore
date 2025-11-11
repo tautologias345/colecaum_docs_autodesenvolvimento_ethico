@@ -4,3 +4,9 @@ content/
 # Documentos
 *.md
 *.docx
+*.odt
+
+# Planilhas
+*.csv
+*.xlsx
+*.ods
