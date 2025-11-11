@@ -6,7 +6,5 @@ content/
 *.docx
 *.odt
 
-# Planilhas
+# CSV
 *.csv
-*.xlsx
-*.ods
