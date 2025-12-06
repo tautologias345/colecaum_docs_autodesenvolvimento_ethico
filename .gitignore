@@ -1,6 +1,9 @@
 # Conteúdo do Infoproduto à Venda
 content/
 
+# Perguntas para o Público
+perguntas/
+
 # Documentos
 *.md
 *.docx
@@ -11,3 +14,16 @@ content/
 
 # Vídeo
 *.mp4
+*.mkv
+*.m4v
+*.ogv
+
+# Áudio
+*.mp3
+*.wav
+*.m4a
+*.ogg
+
+# Web
+*.webm
+*.webp
